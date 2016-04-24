@@ -1,4 +1,4 @@
-FROM golang:1.6.1
+FROM golang:1.6.2
 
 ENV GLIDE_VERSION 0.10.2
 RUN set -xe && \
